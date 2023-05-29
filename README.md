@@ -7,10 +7,6 @@ Mnist with CNN (accuracy 97%)
 
 https://www.tensorflow.org/datasets/catalog/mnist
 
-## Visualiztion
-
-
-
 ## Requirements
 
 * **python 3.6**
